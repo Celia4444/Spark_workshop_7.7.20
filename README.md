@@ -1,4 +1,4 @@
-# Spark_workshop_7.6.20
+# Spark_workshop_7.7.20
 LOGISTIC REGRESSION - HEART DISEASE PREDICTION
 
 * Introduction
