@@ -1,7 +1,8 @@
 # Spark_workshop_7.7.20
 This pakage incduing one dataset, three notebooks and one slide that used in the workshop.
-I
-nformation about the data and the problem we are going to predict:
+
+
+Information about the data and the problem we are going to predict:
 LOGISTIC REGRESSION - HEART DISEASE PREDICTION
 
 * Introduction
